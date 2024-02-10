@@ -1,1 +1,0 @@
-boolean matches = myString.matches("123");

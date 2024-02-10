@@ -1,1 +1,0 @@
-return (Math.log(n) / Math.log(3) + epsilon) % 1 <= 2 * epsilon;
